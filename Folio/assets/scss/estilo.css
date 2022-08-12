@@ -1,0 +1,13 @@
+/* mixin */
+/* mixin sin parametros */
+.parrafosConEstilo {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2rem;
+  text-align: center;
+}
+
+/* mixim con parametros */
+.parrafosDos {
+  font-size: 50;
+  text-align: right;
+}/*# sourceMappingURL=estilo.css.map */
